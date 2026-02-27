@@ -1,0 +1,15 @@
+{
+  "adminId": 1775325119,
+  "mapKey": "a3fb6133-4bcf-46d3-9a05-c7d8b5812144",
+  "imgbbKey": "5d57286838098d6b794213aa8d0729b5",
+  "botUsername": "bellamoda95_bot", 
+  "botToken": "8579716324:AAHnNtWjZOyTqPOykTI-9vuEy14xity0Ptw",
+  "firebaseConfig": {
+    "apiKey": "AIzaSyAYuH5NS1kIWLh100ox1Fdpg-0rz0o0BBA",
+    "authDomain": "bellamoda-a19cd.firebaseapp.com",
+    "projectId": "bellamoda-a19cd",
+    "storageBucket": "bellamoda-a19cd.firebasestorage.app",
+    "messagingSenderId": "710777129095",
+    "appId": "G-5JV9RYSX6Y"
+  }
+}
